@@ -36,8 +36,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
+1. 
 2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
 
 * Follow these guidelines for committing:
